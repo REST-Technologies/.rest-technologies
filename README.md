@@ -3,7 +3,7 @@
 
 Bem-vindo à **R.E.S.T.**, uma subsidiária tecnológica focada em criar o ambiente de execução mais tranquilo do ecossistema digital. Aqui, nós não apenas codificamos; nós garantimos que nossos sistemas operem na mais perfeita harmonia e descanso.
 
-![Oásis da R.E.S.T.](images/oasis.png)
+![Oásis da R.E.S.T.](<img width="200" height="200" alt="343323545" src="https://github.com/user-attachments/assets/838a9948-a151-431a-95ae-4d25c8c208d3" />)
 
 > *Registro oficial do nosso ambiente de produção: Entidades e Robôs de Automação desfrutando de baixa latência e zero estresse à beira do Oásis.*
 
