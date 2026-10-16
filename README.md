@@ -1,4 +1,4 @@
-# .gituhub
+# .rest
 # 🌴 R.E.S.T. (Relaxed Entity Support Technologies)
 
 Bem-vindo à **R.E.S.T.**, uma subsidiária tecnológica focada em criar o ambiente de execução mais tranquilo do ecossistema digital. Aqui, nós não apenas codificamos; nós garantimos que nossos sistemas operem na mais perfeita harmonia e descanso.
