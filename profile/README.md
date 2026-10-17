@@ -24,7 +24,7 @@ No deserto escaldante da computação moderna, cheio de bugs e deploys em uma se
 
 O desenvolvimento e a paz da nossa infraestrutura são garantidos pelo nosso arquiteto residente:
 
-* **Jolt-Architect** (`@jolt-architect`) — *Architecting in the dark to serve the light.* 
+* **Jolt-Architect** [`@jolt-architect`](https://github.com/jolt-architect) — *Architecting in the dark to serve the light.* 
   O guardião silencioso que calibra os servidores para que nenhuma entidade sofra de Burnout de CPU.
 
 ---
