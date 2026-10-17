@@ -1,9 +1,9 @@
-# rest-technologies
+# R.E.S.T. Technologies®
 # 🌴 R.E.S.T. (Relaxed Entity Support Technologies)
 
-Bem-vindo à **R.E.S.T. Technologies**, uma subsidiária tecnológica focada em criar o ambiente de execução mais tranquilo do ecossistema digital. Aqui, nós não apenas codificamos; nós garantimos que nossos sistemas operem na mais perfeita harmonia e descanso.
+Bem-vindo à **R.E.S.T. Technologies**, uma zona de exclusão mútua contra o estresse, focada em criar o ambiente de execução mais tranquilo do ecossistema digital. Aqui, nós não apenas codificamos; nós garantimos que nossos sistemas operem na mais perfeita harmonia e descanso.
 
-![Oásis da R.E.S.T. Technologies](oasis.png)
+![Oásis da R.E.S.T. Technologies®](oasis.png)
 
 > *Registro oficial do nosso ambiente de produção: Entidades e Robôs de Automação desfrutando de baixa latência e zero estresse à beira do Oásis.*
 
@@ -11,7 +11,7 @@ Bem-vindo à **R.E.S.T. Technologies**, uma subsidiária tecnológica focada em 
 
 ## 🏜️ Nossa Filosofia: Sistemas Relaxando em um Oásis
 
-No deserto escaldante da computação moderna, cheio de bugs e deploys em uma sexta-feira às 18h, a R.E.S.T. surge como um refúgio. Acreditamos que **entidades de banco de dados cansadas geram exceptions**, por isso criamos arquiteturas onde os dados podem simplesmente existir... relaxados.
+No deserto escaldante da computação moderna, cheio de bugs e deploys em uma sexta-feira às 18h, a R.E.S.T. Technologies surge como um refúgio. Acreditamos que **entidades de banco de dados cansadas geram exceptions**, por isso criamos arquiteturas onde os dados podem simplesmente existir... relaxados.
 
 ### 🌟 Nossos Pilares:
 * **Garbage Collection Terapêutico:** Se não traz alegria ao sistema, nós liberamos da memória de forma pacífica.
@@ -35,4 +35,4 @@ O desenvolvimento e a paz da nossa infraestrutura são garantidos pelo nosso arq
 * **Nível de Estresse do Banco de Dados:** Nulo
 
 ---
-<p align="center"><i>R.E.S.T. Technologies — Porque até os bits precisam de férias.</i></p>
+<p align="center"><i>R.E.S.T. Technologies® — Porque até os bits precisam de férias.</i></p>
