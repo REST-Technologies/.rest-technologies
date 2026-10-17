@@ -1,9 +1,9 @@
 # rest-technologies
 # 🌴 R.E.S.T. (Relaxed Entity Support Technologies)
 
-Bem-vindo à **R.E.S.T.**, uma subsidiária tecnológica focada em criar o ambiente de execução mais tranquilo do ecossistema digital. Aqui, nós não apenas codificamos; nós garantimos que nossos sistemas operem na mais perfeita harmonia e descanso.
+Bem-vindo à **R.E.S.T. Technologies**, uma subsidiária tecnológica focada em criar o ambiente de execução mais tranquilo do ecossistema digital. Aqui, nós não apenas codificamos; nós garantimos que nossos sistemas operem na mais perfeita harmonia e descanso.
 
-![Oásis da R.E.S.T.](oasis.png)
+![Oásis da R.E.S.T. Technologies](oasis.png)
 
 > *Registro oficial do nosso ambiente de produção: Entidades e Robôs de Automação desfrutando de baixa latência e zero estresse à beira do Oásis.*
 
