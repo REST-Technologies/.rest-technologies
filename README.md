@@ -11,7 +11,7 @@ Bem-vindo à **R.E.S.T. Technologies®**, uma zona de exclusão mútua contra o 
 
 ## 🏜️ Nossa Filosofia: Sistemas Relaxando em um Oásis
 
-No deserto escaldante da computação moderna, cheio de bugs e deploys em uma sexta-feira às 18h, a R.E.S.T. Technologies surge como um refúgio. Acreditamos que **entidades de banco de dados cansadas geram exceptions**, por isso criamos arquiteturas onde os dados podem simplesmente existir... relaxados.
+No deserto escaldante da computação moderna, cheio de bugs e deploys em uma sexta-feira às 18h, a R.E.S.T. Technologies® surge como um refúgio. Acreditamos que **entidades de banco de dados cansadas geram exceptions**, por isso criamos arquiteturas onde os dados podem simplesmente existir... relaxados.
 
 ### 🌟 Nossos Pilares:
 * **Garbage Collection Terapêutico:** Se não traz alegria ao sistema, nós liberamos da memória de forma pacífica.
