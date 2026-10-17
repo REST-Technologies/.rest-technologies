@@ -1,7 +1,7 @@
 # R.E.S.T. Technologies®
 # 🌴 R.E.S.T. (Relaxed Entity Support Technologies)
 
-Bem-vindo à **R.E.S.T. Technologies**, uma zona de exclusão mútua contra o estresse, focada em criar o ambiente de execução mais tranquilo do ecossistema digital. Aqui, nós não apenas codificamos; nós garantimos que nossos sistemas operem na mais perfeita harmonia e descanso.
+Bem-vindo à **R.E.S.T. Technologies®**, uma zona de exclusão mútua contra o estresse, focada em criar o ambiente de execução mais tranquilo do ecossistema digital. Aqui, nós não apenas codificamos; nós garantimos que nossos sistemas operem na mais perfeita harmonia e descanso.
 
 ![Oásis da R.E.S.T. Technologies®](oasis.png)
 
